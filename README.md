@@ -1,4 +1,5 @@
-Co2Sensor Service
+<b>Co2Sensor Service</b>
+
 This service receives co2 level from different sensors and determine the sensor status and triggers the alert when level beyond threshold level.
 
 Start the application
